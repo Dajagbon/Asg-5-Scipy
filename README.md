@@ -1,4 +1,3 @@
-# Asg-5-Scipy
 # NBA Player Statistics Analysis
 
 ## Purpose
